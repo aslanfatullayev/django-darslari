@@ -5,3 +5,8 @@
 ```shell
 py -m venv env
 ```
+
+# activate env
+```shell
+.\env\Scripts\activate
+```
